@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Learn React in 10 Days",
+      "tags": ["react", "javascript", "frontend"]
+    },
+    {
+      "id": 2,
+      "title": "Mastering Zustand for State Management",
+      "tags": ["zustand", "state", "react"]
+    },
+    {
+      "id": 3,
+      "title": "Understanding Async/Await",
+      "tags": ["javascript", "async", "promises"]
+    },
+    {
+      "id": 4,
+      "title": "A Guide to Clean Code",
+      "tags": ["clean-code", "best-practices", "programming"]
+    },
+    {
+      "id": 5,
+      "title": "Designing with Figma",
+      "tags": ["ui", "figma", "design"]
+    }
+  ]
+}
+
+
+add db.json with fake post data
